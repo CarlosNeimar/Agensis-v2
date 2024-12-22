@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Agensis
+authors:
+  - family-names: Temponi Daltro de Castro
+    given-names: João Victor
+  - family-names: Neimar Areas Ferreira
+    given-names: Carlos Henrique 
+  - family-names: Lobo Leite Neves
+    given-names: Henrique
+  - family-names: Faria Rodrigues
+    given-names: Estevão de
+  - family-names: Silva de Oliveira
+    given-names: Lorrayne Marayze
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro de Souza
+    given-names: Joana Gabriela
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Da Silva
+    given-names: Soraia Lúcia
+keywords:
+  - Designer Tools
+  - Task Management
+  - Agile Workflow
+  - Node.js
+  - React
+  - MySQL
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti4-3126100-artes-pro
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-12-10
