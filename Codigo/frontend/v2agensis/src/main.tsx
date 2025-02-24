@@ -3,11 +3,11 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import { createBrowserRouter, RouterProvider } from 'react-router';
-import Landing from './pages/default/landing.tsx';
+import Landing from './pages/default/Landing.tsx';
 import Login from './pages/default/login.tsx';
 import Page404 from './pages/default/Page404.tsx';
 import Sign_up from './pages/default/Sign_up.tsx';
-
+import Market from './pages/default/Market.tsx';
 
 // Rotas do frontend
 const router = createBrowserRouter([
@@ -29,6 +29,10 @@ const router = createBrowserRouter([
       {
         path: 'signup',
         element: <Sign_up />
+      },
+      {
+        path: 'market',
+        element: <Market />
       },
     ]
   },
